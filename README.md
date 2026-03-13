@@ -3,10 +3,16 @@ ANOTAÇÕES AULA
 ```
 git add .
 ```
+
+```
 git commit -m "texto"
 ```
-git push
 
+```
+git push
+```
+
+```
 ANOTAÇÕES VITÓRIA
 Linguagens que o programa entende: 
 utf-8 
@@ -24,3 +30,4 @@ git commit -m "Primeiro-Exemplo-Wesley"
 git push 
 
 Diversos: alt na imagem é para pessoas que não conseguem ver possam saber do que se trata a imagem
+```
