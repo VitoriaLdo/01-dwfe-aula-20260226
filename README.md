@@ -1,4 +1,16 @@
 # 01-dwfe-aula-20260226
+ANOTAÇÕES AULA
+```
+git add .
+```
+git commit -m "texto"
+```
+
+
+
+
+ANOTAÇÕES VITÓRIA
+git push
 
 Linguagens que o programa entende: 
 utf-8 
