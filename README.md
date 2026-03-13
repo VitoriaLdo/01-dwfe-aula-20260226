@@ -5,13 +5,9 @@ git add .
 ```
 git commit -m "texto"
 ```
-
-
-
-
-ANOTAÇÕES VITÓRIA
 git push
 
+ANOTAÇÕES VITÓRIA
 Linguagens que o programa entende: 
 utf-8 
 iso-8859-1
