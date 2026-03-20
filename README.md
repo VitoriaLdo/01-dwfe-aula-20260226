@@ -31,3 +31,10 @@ git push
 
 Diversos: alt na imagem é para pessoas que não conseguem ver possam saber do que se trata a imagem
 ```
+
+```
+trio perfeito do FLEXBOX
+justify-content: center; alinha no eixo X as escritas 
+align-items: center; alinha dentro da linha
+align-content: center; alinha no eixo y as escritas 
+```
