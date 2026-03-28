@@ -1,8 +1,7 @@
-
-.nav {
+nav {
     /* border: .1rem solid orangered; */
     width: 15rem;
-    background-color: #eee;
+    background-color: #d8b6b6;
     padding: .5rem;
 }
 
@@ -11,9 +10,12 @@ a /*ancora, o link*/{
 }
 
 li {
+    /*todas as margins são para definir distancia de algum lugar, 
+    top do topo, left da esquerda e bottom debaixo*/
     margin-top: 0.5rem;
     margin-left: 0.5rem;
     margin-bottom: 1rem;
+    list-style-type: none ; /* tirar os pontinhos da li*/
 }
 
 .opcao {
@@ -26,7 +28,7 @@ li {
 
 .opcao:hover {
     background-color: #ccc;
-    color: black;
+    color: black; /*cor da letra*/
     box-shadow: 0.3rem 0.3rem 0.3rem 0.01rem #ddd; /*deslocamento eixo x, deslocamento eixo y, 
     intensidade ou o borrão da sombra, espalhamento da sombra, cor da sombra*/
     border: 0.1rem solid #bdbdbd;

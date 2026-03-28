@@ -1,6 +1,8 @@
-@import url("cartao.css");
 @import url("cabecalho.css");
+@import url("cartao.css");
+@import url("corpo.css");
 @import url("menulateral.css");
+@import url("rodape.css");
 
 * {
     font-family: "Segoe UI", Arial, sans-serif;
@@ -13,6 +15,18 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+header {
+    /* border: 0.1rem solid red; */
+    height: 2rem; /*altura da barra*/
+    background-color: #252523; /*cor de fundo da barra*/
+    color: #eee;/*cor do que está escrito na barra*/
+    display: flex;
+    /* justify-content: center; */
+    align-content: center;
+    align-items: center;
+    padding: .5rem; /*deixa a barra afastada das letras*/
 }
 
 section {

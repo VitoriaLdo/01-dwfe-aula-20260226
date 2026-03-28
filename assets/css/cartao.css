@@ -1,9 +1,10 @@
 .cartao {
-    border: .1rem solid #ccc;
-    border-radius: .5rem;
-    box-shadow: .4rem .3rem .3rem .03rem #eee;
+    border: .1rem solid #c95c13; /*borda do card*/
+    border-radius: .5rem; /*arredondamento da borda*/
+    box-shadow: .4rem .3rem .3rem .03rem #eee; /*deslocamento eixo x, deslocamento eixo y, 
+    intensidade ou o borrão da sombra, espalhamento da sombra, cor da sombra*/
     display: flex;
-    flex-direction: column;
-    width: 15rem;
-    height: 28rem;
+    flex-direction: column; /* define que o site sera em colunas*/
+    width: 15rem; /*largura*/
+    height: 28rem; /*altura*/
 }
