@@ -1,7 +1,7 @@
 nav {
     /* border: .1rem solid orangered; */
     width: 15rem;
-    background-color: #d8b6b6;
+    background-color: #eee;
     padding: .5rem;
 }
 
@@ -12,8 +12,6 @@ a /*ancora, o link*/{
 li {
     /*todas as margins são para definir distancia de algum lugar, 
     top do topo, left da esquerda e bottom debaixo*/
-    margin-top: 0.5rem;
-    margin-left: 0.5rem;
     margin-bottom: 1rem;
     list-style-type: none ; /* tirar os pontinhos da li*/
 }
@@ -39,7 +37,7 @@ li {
 } /*quando passa o mousse em cima a opção a ser alinha a direita é o rotulo*/
 
 .opcao:hover .icone-final {
-    opacity: 1;
+    opacity: 1; /*quando passa o mousse pelo elemento*/
 }
 
 .icone-inicial {
